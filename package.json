@@ -1,0 +1,10 @@
+{
+	"name": "pcap2wav",
+	"version": "1.0.0",
+	"description": "This utility allows you to convert RTP streams captured in PCAP files to WAV audio files.",
+	"main": "index.js",
+	"scripts": {},
+	"keywords": [],
+	"author": "Cameron Weeks",
+	"license": "MIT"
+}
